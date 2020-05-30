@@ -2,3 +2,5 @@
 node_modules/
 .antora/
 site-generator/node_modules
+.idea
+build/
